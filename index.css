@@ -22,8 +22,11 @@
         .header {
             background: #333;
             color: #fff;
-            padding: 20px;
+            padding: 125px;
             text-align: center;
+            min-height: 300px;
+            background-image:url("images/marietta_restaurant.png");
+            background-position: center;
         }
 
         /* Navigation */
